@@ -1,5 +1,5 @@
 ---
-title       : "Syntax Highlighting Test"
+title       : "Syntax Highlighting Test TR"
 description : "A page full of code samples."
 tags        : [ extra, "syntax highlighting" ]
 toc         : true
