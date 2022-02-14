@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color Your World</title>
-    <link>https://cankatabaci.github.io/cankatabaci/tags/</link>
+    <link>https://cankatabaci.github.io/tags/</link>
     <description>Cankat Abacı&#39;nın Not Defteri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/cankatabaci/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>extra</title>
-        <link>https://cankatabaci.github.io/cankatabaci/tags/extra/</link>
+        <link>https://cankatabaci.github.io/tags/extra/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cankatabaci.github.io/cankatabaci/tags/extra/</guid>
+        <guid>https://cankatabaci.github.io/tags/extra/</guid>
         <description></description>
       </item>
     
       <item>
         <title>syntax highlighting</title>
-        <link>https://cankatabaci.github.io/cankatabaci/tags/syntax-highlighting/</link>
+        <link>https://cankatabaci.github.io/tags/syntax-highlighting/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cankatabaci.github.io/cankatabaci/tags/syntax-highlighting/</guid>
+        <guid>https://cankatabaci.github.io/tags/syntax-highlighting/</guid>
         <description></description>
       </item>
     

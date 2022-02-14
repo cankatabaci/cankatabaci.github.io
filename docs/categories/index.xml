@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color Your World</title>
-    <link>https://cankatabaci.github.io/cankatabaci/categories/</link>
+    <link>https://cankatabaci.github.io/categories/</link>
     <description>Cankat Abacı&#39;nın Not Defteri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/cankatabaci/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
