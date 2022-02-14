@@ -11,7 +11,7 @@ enableEmoji = true
 enableInlineShortcodes = true
 
 paginate = 3
-publishDir = "./"
+publishDir = "./docs"
 
 [params]
   
