@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color Your World</title>
-    <link>https://cankatabaci.github.io/</link>
+    <link>https://cankatabaci.github.io/cankatabaci/</link>
     <description>Cankat Abacı&#39;nın Not Defteri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021,  Cankat Abacı; All rights reserved.</copyright><atom:link href="https://cankatabaci.github.io/cankatabaci/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Contact</title>
-        <link>https://cankatabaci.github.io/contact/</link>
+        <link>https://cankatabaci.github.io/cankatabaci/contact/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cankatabaci.github.io/contact/</guid>
+        <guid>https://cankatabaci.github.io/cankatabaci/contact/</guid>
         <description>See how to contact me.</description>
       </item>
     
       <item>
         <title>Syntax Highlighting Test</title>
-        <link>https://cankatabaci.github.io/posts/my-first-post/</link>
+        <link>https://cankatabaci.github.io/cankatabaci/posts/my-first-post/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cankatabaci.github.io/posts/my-first-post/</guid>
+        <guid>https://cankatabaci.github.io/cankatabaci/posts/my-first-post/</guid>
         <description>A page full of code samples.</description>
       </item>
     
       <item>
         <title>Tag</title>
-        <link>https://cankatabaci.github.io/tags/</link>
+        <link>https://cankatabaci.github.io/cankatabaci/tags/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://cankatabaci.github.io/tags/</guid>
+        <guid>https://cankatabaci.github.io/cankatabaci/tags/</guid>
         <description>See how to contact me.</description>
       </item>
     
