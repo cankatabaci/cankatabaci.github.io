@@ -15,7 +15,7 @@ paginate = 3
 [params]
   
   # Site description
-  description = "Cankat Abac'nın Not Defteri"
+  description = "Cankat Abacı'nın Not Defteri"
   
   # Author
   author      = "Cankat Abacı"
