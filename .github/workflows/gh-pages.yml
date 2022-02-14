@@ -32,4 +32,3 @@ jobs:
           publish_dir: ./docs
           clean: true
           user_name: cankatabaci
-          publish_branch: master
