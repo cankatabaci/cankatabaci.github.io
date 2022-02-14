@@ -1,5 +1,5 @@
 ---
-title       : "Syntax Highlighting Test Github"
+title       : "Syntax Highlighting Test 22Github"
 description : "A page full of code samples."
 tags        : [ extra, "syntax highlighting" ]
 toc         : true
