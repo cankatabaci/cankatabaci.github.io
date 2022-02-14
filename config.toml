@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cankatabaci.github.io'
 languageCode = "en"
 title = "Color Your World"
 theme = "color-your-world"
