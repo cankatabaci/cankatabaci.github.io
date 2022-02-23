@@ -1,8 +1,8 @@
 ---
-title                 : "Welcome"
+title                 : "notes to myself"
 disableTitleSeparator : true
 ---
 
-Feel free to check the [posts](/posts) to see some of the theme features.
+Hello, I'm [Cankat](/contact), I use this place as a notepad.
 
-You can also pick a different color by using the colored square in the footer.
+Notes on mostly software, rarely coffee, foody, politics and galatasaray
