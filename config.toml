@@ -114,8 +114,8 @@ publishDir = "./docs"
     ignoreSystemSettings = true
 
     # Accent colors for dark and light mode respectively
-    darkAccent   = "#1dbc91" # Default is "#1dbc91"
-    lightAccent  = "#1f676b" # Default is "#1f676b"
+    darkAccent   = "#e32400" # Default is "#e32400"
+    lightAccent  = "#ff4013" # Default is "#ff4013"
 
     # More colors, pick as many as you want (not really sure if there's a limit)
     # Apparently these may not show up on every modern browser (ie. Firefox)
