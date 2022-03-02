@@ -2,4 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  
+    <url>
+      <loc>https://cankatabaci.github.io/posts/galatasarayorg/galatasarayorg/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="tr"
+            href="https://cankatabaci.github.io/tr/posts/galatasarayorg/galatasarayorg/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://cankatabaci.github.io/posts/galatasarayorg/galatasarayorg/"
+          />
+      
+      
+    </url>
+    
+  
 </urlset>
