@@ -25,5 +25,14 @@
         <description>NPM'de yayımlanacak bir paketin, GitHub Actions kullanarak otomatik olarak yayımlanması.</description>
       </item>
     
+      <item>
+        <title>Kitaplar</title>
+        <link>https://cankatabaci.github.io/tr/posts/books/books/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cankatabaci.github.io/tr/posts/books/books/</guid>
+        <description>okuğum kitaplar</description>
+      </item>
+    
   </channel>
 </rss>
