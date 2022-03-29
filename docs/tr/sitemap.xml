@@ -57,6 +57,20 @@
       
       
       
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="https://cankatabaci.github.io/posts/books/books/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="tr"
+          href="https://cankatabaci.github.io/tr/posts/books/books/"
+          />
+      
       
     </url>
     
