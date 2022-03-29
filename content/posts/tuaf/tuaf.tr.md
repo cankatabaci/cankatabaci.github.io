@@ -1,7 +1,7 @@
 ---
 title       : "Türk Hava Kuvvetleri"
-description : "Galatasaray.org homepage screenshots"
-tags        : [ galatasaray, "galatasaray-org" ]
+description : "Türk Hava Kuvvetleri peç, bröve, spoletleri..."
+tags        : [ "Türk Hava Kuvvetleri", "TuAF" ]
 toc         : true
 ---
 
