@@ -75,13 +75,3 @@ toc         : true
 ![Example image](/tuaf/5/152Filo_2.png) 
 
 
-### 9. Ana Jet Üs Komutanlığı, Balıkesir Hava Üssü
-![Example image](/tuaf/9/9AnaJet.jpeg)   
-
-
-#### 191 Filo
-![Example image](/tuaf/9/191Filo_1.jpeg)   
-
-#### 192 Filo
-![Example image](/tuaf/9/192Filo_1.jpeg)   
-
