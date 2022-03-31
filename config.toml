@@ -10,7 +10,7 @@ copyright = "Copyright © 2021,  Cankat Abacı; All rights reserved."
 enableEmoji = true
 enableInlineShortcodes = true
 
-paginate = 4
+paginate = 5
 publishDir = "./docs"
 
 [params]
