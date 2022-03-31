@@ -8,7 +8,7 @@ toc         : true
 # Türk Hava Kuvvetleri
 
 ## Muharip Hava Kuvveti Komutanlığı
-![Example image](/tuaf/MuharipHavaKK.jpeg)   
+![Example image](/tuaf/MuharipHavaKK.png)   
 
 ### 1. Ana Jet Üs Komutanlığı, Eskişehir Hava Üssü
 ![Example image](/tuaf/1/1AnaJet.png)   
