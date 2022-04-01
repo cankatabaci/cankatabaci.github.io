@@ -1,5 +1,5 @@
 ---
-title       : "TürkHavaKuvvetleri"
+title       : "Türk Hava Kuvvetleri"
 description : "Türk Hava Kuvvetleri peç, bröve, spoletleri..."
 tags        : [ "Türk Hava Kuvvetleri", "TuAF" ]
 toc         : true
