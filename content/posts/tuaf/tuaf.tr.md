@@ -106,3 +106,18 @@ toc         : true
 
 #### 173 Filo - Şafak
 ![Example image](/tuaf/7/173Filo_1.png) 
+
+
+### 8. Ana Jet Üs Komutanlığı, Diyarbakır Hava Üssü
+![Example image](/tuaf/8/8AnaJet.png)   
+
+
+#### 181 Filo - Pars
+![Example image](/tuaf/8/181Filo_1.png) 
+![Example image](/tuaf/8/181Filo_2.png) 
+
+
+#### 182 Filo - Atmaca
+![Example image](/tuaf/8/182Filo_1.png) 
+![Example image](/tuaf/8/182Filo_2.png) 
+![Example image](/tuaf/8/182Filo_3.png) 
