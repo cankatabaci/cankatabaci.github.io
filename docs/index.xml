@@ -43,5 +43,14 @@
         <description>See how to contact me.</description>
       </item>
     
+      <item>
+        <title>Turkish Air Force</title>
+        <link>https://cankatabaci.github.io/posts/tuaf/tuaf/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://cankatabaci.github.io/posts/tuaf/tuaf/</guid>
+        <description>Turkish Air Force patch...</description>
+      </item>
+    
   </channel>
 </rss>

@@ -60,4 +60,33 @@
     </url>
     
   
+  
+    <url>
+      <loc>https://cankatabaci.github.io/posts/tuaf/tuaf/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="tr"
+            href="https://cankatabaci.github.io/tr/posts/tuaf/tuaf/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="en"
+          href="https://cankatabaci.github.io/posts/tuaf/tuaf/"
+          />
+      
+      
+    </url>
+    
+  
 </urlset>
