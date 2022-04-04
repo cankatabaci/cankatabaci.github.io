@@ -1,5 +1,5 @@
 ---
-title       : "Turkish Air Force"
+title       : "Turkish Air Force Patches"
 description : "Turkish Air Force patch..."
 tags        : [ "Turkish Air Force", "TuAF" ]
 toc         : true
