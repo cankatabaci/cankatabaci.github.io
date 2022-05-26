@@ -11,6 +11,7 @@ I take note of the books I have read since 01.06.2021
 
 | Book      | Author | Publisher |
 | ----------- | ----------- | ----------- |
+| Somali'ye Bir Umut      | Çevik Bir         | Sabah Kitapları       |
 | Orgeneral Torumtay'ın Anıları      | Necip Torumtay         | Milliyet Yayınları       |
 | İstanbul Kırmızısı      | Ferzan Özpetek         | Can Yayınları       |
 | Simyacı   | Paulo Coelho          | Can Yayınları       |
@@ -27,14 +28,19 @@ I take note of the books I have read since 01.06.2021
 
 ## Currently Reading
 
+### Somali'ye Bir Umut
+**Author**: Çevik Bir   
+**Publisher**: Sabah Kitapları  
+**Pages**: 264    
+**ISBN**: [9789755790787](https://isbnsearch.org/isbn/9789755790787) 
+
+## My Books
+
 ### Orgeneral Torumtay'ın Anıları
 **Author**: Necip Torumtay   
 **Publisher**: Milliyet Yayınları  
 **Pages**: 159    
 **ISBN**: [9789755061368](https://isbnsearch.org/isbn/9789755061368) 
-
-## My Books
-
 
 ### İstanbul Kırmızısı
 **Author**: Ferzan Özpetek   

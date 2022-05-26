@@ -11,6 +11,7 @@ toc         : true
 
 | Kitap      | Yazar | Yayınevi |
 | ----------- | ----------- | ----------- |
+| Somali'ye Bir Umut      | Çevik Bir         | Sabah Kitapları       |
 | Orgeneral Torumtay'ın Anıları      | Necip Torumtay         | Milliyet Yayınları       |
 | İstanbul Kırmızısı      | Ferzan Özpetek         | Can Yayınları       |
 | Simyacı   | Paulo Coelho          | Can Yayınları       |
@@ -27,14 +28,20 @@ toc         : true
 
 ## Şu Anda Okuduğum Kitap
 
+### Somali'ye Bir Umut
+**Yazar**: Çevik Bir   
+**Yayınevi**: Sabah Kitapları  
+**Sayfa Sayısı**: 264    
+**ISBN**: [9789755790787](https://isbnsearch.org/isbn/9789755790787) 
+
+## Kitaplar
+
+
 ### Orgeneral Torumtay'ın Anıları
 **Yazar**: Necip Torumtay   
 **Yayınevi**: Milliyet Yayınları  
 **Sayfa Sayısı**: 159    
 **ISBN**: [9789755061368](https://isbnsearch.org/isbn/9789755061368) 
-
-## Kitaplar
-
 
 ### İstanbul Kırmızısı
 **Yazar**: Ferzan Özpetek   
