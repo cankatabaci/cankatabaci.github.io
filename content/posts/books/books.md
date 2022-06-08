@@ -6,11 +6,12 @@ toc         : true
 --- 
 
 
-## Giriş
+## Description
 I take note of the books I have read since 01.06.2021
 
 | Book      | Author | Publisher |
 | ----------- | ----------- | ----------- |
+| Dune     | Frank Herbert          | Ithaki  Yayınları       |
 | Somali'ye Bir Umut      | Çevik Bir         | Sabah Kitapları       |
 | Orgeneral Torumtay'ın Anıları      | Necip Torumtay         | Milliyet Yayınları       |
 | İstanbul Kırmızısı      | Ferzan Özpetek         | Can Yayınları       |
@@ -28,13 +29,19 @@ I take note of the books I have read since 01.06.2021
 
 ## Currently Reading
 
+### Dune
+**Author**: Frank Herbert   
+**Publisher**: Ithaki  Yayınları  
+**Pages**: 688    
+**ISBN**: [9786053754794](https://isbnsearch.org/isbn/9786053754794) 
+
+## My Books
+
 ### Somali'ye Bir Umut
 **Author**: Çevik Bir   
 **Publisher**: Sabah Kitapları  
 **Pages**: 264    
 **ISBN**: [9789755790787](https://isbnsearch.org/isbn/9789755790787) 
-
-## My Books
 
 ### Orgeneral Torumtay'ın Anıları
 **Author**: Necip Torumtay   
@@ -104,7 +111,7 @@ I take note of the books I have read since 01.06.2021
 
 ### Hatıratım
 **Author**: Talât Aydemir   
-**Publisher**: Yapı Kredi Yayınları 
+**Publisher**: Yapı Kredi Yayınları   
 **Pages**: 584      
 **ISBN**: [9789750817878](https://isbnsearch.org/isbn/9789750817878)    
 

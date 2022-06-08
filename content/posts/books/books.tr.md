@@ -11,6 +11,7 @@ toc         : true
 
 | Kitap      | Yazar | Yayınevi |
 | ----------- | ----------- | ----------- |
+| Dune     | Frank Herbert          | Ithaki  Yayınları       |
 | Somali'ye Bir Umut      | Çevik Bir         | Sabah Kitapları       |
 | Orgeneral Torumtay'ın Anıları      | Necip Torumtay         | Milliyet Yayınları       |
 | İstanbul Kırmızısı      | Ferzan Özpetek         | Can Yayınları       |
@@ -28,14 +29,20 @@ toc         : true
 
 ## Şu Anda Okuduğum Kitap
 
+### Dune
+**Yazar**: Frank Herbert    
+**Yayınevi**: Ithaki  Yayınları  
+**Sayfa Sayısı**: 688    
+**ISBN**: [9786053754794](https://isbnsearch.org/isbn/9786053754794) 
+
+## Kitaplar
+
+
 ### Somali'ye Bir Umut
 **Yazar**: Çevik Bir   
 **Yayınevi**: Sabah Kitapları  
 **Sayfa Sayısı**: 264    
 **ISBN**: [9789755790787](https://isbnsearch.org/isbn/9789755790787) 
-
-## Kitaplar
-
 
 ### Orgeneral Torumtay'ın Anıları
 **Yazar**: Necip Torumtay   
@@ -105,8 +112,8 @@ toc         : true
 
 ### Hatıratım
 **Yazar**: Talât Aydemir   
-**Yayınevi**: Yapı Kredi Yayınları 
-**Sayfa Sayısı**: 584      
+**Yayınevi**: Yapı Kredi Yayınları   
+**Sayfa Sayısı**: 584        
 **ISBN**: [9789750817878](https://isbnsearch.org/isbn/9789750817878)    
 
 
